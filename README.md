@@ -1,16 +1,18 @@
-## Hi there 👋
+# gabriellemnunes <img src="https://github.com/user-attachments/assets/244a0f1a-be4e-4dc3-b6c5-9d9075fb53e9" width="30px">
 
-<!--
-**gabriellemnunes/gabriellemnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou <strong>Gabrielle Mendes Nunes</strong>, <strong>tenho 18 anos, e estou cursando análise e desenvolvimento de sistemas. Sou iniciante na programção, e pretendo entrar pro mercado digital.</strong> 👨🏻‍💻 
 
-Here are some ideas to get you started:
+- 🚀 Atualmente estou aprendendo: <strong>python</strong> 
+- 💬 Sobre Mim: <strong>jogar, caminhar, programar e ler</strong>
+- 📣 Nós podemos falar em: <strong>inglês e português</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  
+</div>
