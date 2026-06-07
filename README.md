@@ -1,6 +1,6 @@
 # gabriellemnunes <img src="https://github.com/user-attachments/assets/16ef87ba-89a3-4481-a0bc-dc4af5a56cfc" width="30px">
 
-Eu sou <strong>Gabrielle Mendes Nunes</strong>, <strong>tenho 18 anos, e estou cursando análise e desenvolvimento de sistemas. Sou iniciante na programção, e pretendo entrar pro mercado digital.</strong> 👨🏻‍💻 
+Eu sou <strong>Gabrielle Mendes Nunes</strong>, <strong>tenho 19 anos, e estou cursando análise e desenvolvimento de sistemas. Sou iniciante na programção, e pretendo entrar pro mercado digital.</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>python</strong> 
 - 💬 Sobre Mim: <strong>jogar, caminhar, programar e ler</strong>
