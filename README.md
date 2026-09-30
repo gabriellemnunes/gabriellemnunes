@@ -1,12 +1,26 @@
-# Gabrielle Mendes
+<h1>
+  Gabrielle Mendes
+  <img src="https://github.com/user-attachments/assets/acaa1c5c-1a73-460a-886f-b461e29130c2" width="35px" alt="GIF">
+</h1>
 
-**Análise e Desenvolvimento de Sistemas | UI/UX | Desenvolvimento Web**
+<p align="left">
+  <strong>Análise e Desenvolvimento de Sistemas | UI/UX | Desenvolvimento Web</strong>
+</p>
 
-Estudante de Análise e Desenvolvimento de Sistemas, interessada em desenvolvimento de produtos digitais, UI/UX e tecnologia.
+<p align="left">
+  Estudante de Análise e Desenvolvimento de Sistemas, interessada em desenvolvimento
+  de produtos digitais, UI/UX e tecnologia.
+</p>
 
-Gosto de transformar ideias em soluções funcionais, unindo desenvolvimento e design para criar experiências simples, acessíveis e intuitivas.
+<p align="left">
+  Gosto de transformar ideias em soluções funcionais, unindo desenvolvimento e design
+  para criar experiências simples, acessíveis e intuitivas.
+</p>
 
-Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web, Python, SQL e arquitetura de aplicações.
+<p align="left">
+  Atualmente, estou aprimorando meus conhecimentos em desenvolvimento web,
+  Python, SQL e arquitetura de aplicações.
+</p>
 
 ---
 
@@ -49,7 +63,7 @@ Plataforma de cuidado compartilhado voltada para pessoas idosas, desenvolvida pa
 
 A proposta conecta idosos, profissionais de saúde e, futuramente, familiares e cuidadores, buscando preservar autonomia, privacidade e independência.
 
-**Tecnologias:** Javascript, FastAPI, MongoDb e Figma.
+**Tecnologias:** HTML, CSS, FastAPI, MongoDb e Figma.
 
 ---
 
@@ -77,9 +91,9 @@ A aplicação conta com gerenciamento de usuários, projetos, visibilidade públ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellemnunes&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellemnunes&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemnunes&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellemnunes&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -102,6 +116,8 @@ A aplicação conta com gerenciamento de usuários, projetos, visibilidade públ
 </a>
 
 </div>
+
+---
 
 <div align="center">
 
