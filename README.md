@@ -49,7 +49,7 @@ Plataforma de cuidado compartilhado voltada para pessoas idosas, desenvolvida pa
 
 A proposta conecta idosos, profissionais de saúde e, futuramente, familiares e cuidadores, buscando preservar autonomia, privacidade e independência.
 
-**Tecnologias:** React, FastAPI, MySQL e Figma.
+**Tecnologias:** Javascript, FastAPI, MongoDb e Figma.
 
 ---
 
