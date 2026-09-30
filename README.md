@@ -90,34 +90,18 @@ A aplicação conta com gerenciamento de usuários, projetos, visibilidade públ
 <div align="center">
 
 <a href="mailto:gabriellemendesn@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-gabriellemendesn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/gabrielle-mendes-a45684384">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Gabrielle%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/gabriellemnunes">
-<img src="https://cdn.simpleicons.org/github/181717" width="30" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-gabriellemnunes-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br>
-
-<p>
-<a href="mailto:gabriellemendesn@gmail.com">gabriellemendesn@gmail.com</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/gabrielle-mendes-a45684384">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/gabriellemnunes">GitHub</a>
-</p>
-
 </div>
-
----
 
 <div align="center">
 
