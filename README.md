@@ -87,35 +87,32 @@ A aplicação conta com gerenciamento de usuários, projetos, visibilidade públ
 
 ## Contato
 
-<div align="left">
-
-<a href="mailto:gabriellemendesn@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="35"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/gabrielle-mendes-a45684384">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/gabriellemnunes">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35"/>
-</a>
-
-</div>
-
-**E-mail:** gabriellemendesn@gmail.com  
-**LinkedIn:** [linkedin.com/in/gabrielle-mendes-a45684384](https://www.linkedin.com/in/gabrielle-mendes-a45684384)
-
----
-
 <div align="center">
 
-### Gabrielle Mendes
+<a href="mailto:gabriellemendesn@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail">
+</a>
 
-Análise e Desenvolvimento de Sistemas · UI/UX · Desenvolvimento Web
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/gabrielle-mendes-a45684384">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn">
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/gabriellemnunes">
+<img src="https://cdn.simpleicons.org/github/181717" width="30" alt="GitHub">
+</a>
+
+<br>
+
+<p>
+<a href="mailto:gabriellemendesn@gmail.com">gabriellemendesn@gmail.com</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/gabrielle-mendes-a45684384">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/gabriellemnunes">GitHub</a>
+</p>
 
 </div>
